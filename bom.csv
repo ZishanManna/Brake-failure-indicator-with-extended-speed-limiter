@@ -1,0 +1,12 @@
+﻿Name,Quantity,Component
+"UMicrocontroller",1," Arduino Uno R3"
+"R1",1,"47 kΩ Resistor"
+"RBrake",1," Force Sensor"
+"Mmotor",1," DC Motor"
+"U1",1," H-bridge Motor Driver"
+"BAT1",1," 9V Battery"
+"PIEZO1",1," Piezo"
+"D1",1,"Red LED"
+"R2",1,"1 kΩ Resistor"
+"R3",1,"100 Ω Resistor"
+"S2",1," Slideswitch"
